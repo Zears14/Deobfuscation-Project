@@ -8,6 +8,8 @@ I just snatch the file from the [commit](https://github.com/Rdmo1/Neptune/commit
 It looks fun
 ### Can i used it?
 Yeah, Use it on your own risk
+### Isn't it illegal
+Nope, based on the license on neptune_(original).py its clearly say mit license which allow this (counted as modifications)
 ### Plan
 Im planning to deobfuscate a newer version
 ### Lesson
